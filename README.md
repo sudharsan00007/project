@@ -23,9 +23,13 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 # PROGRAM :
+```
 developed by:sudharsan s
+
+
 reg no: 24009664
 
+```
 home page.html
 ```
 <!DOCTYPE html>
